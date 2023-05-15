@@ -1,0 +1,57 @@
+::-webkit-scrollbar{
+  width: 0;
+  hieght: 0;
+}
+body {
+  background-color: whitesmoke;
+  font-family: Century Gothic;
+}
+.g {
+  font-size: 125px;
+  color: #4285F4;
+  font-weight: 500;
+  position: relative;
+  left: 100px;
+  top: 190px;
+}
+.o {
+  font-size: 125px;
+  color: #DB4437;
+  font-weight: 500;
+  position: relative;
+  left: 210px;
+  top: 40px;
+}
+.o_2 {
+  font-size: 125px;
+  color: #F4B400;
+  font-weight: 500;
+  position: relative;
+  left: 293px;
+  top: -112px;
+}
+.g_2 {
+  font-size: 125px;
+  color: #4285F4;
+  font-weight: 500;
+  position: relative;
+  left: 375px;
+  top: -265px;
+}
+.l {
+  font-size: 125px;
+  color: #0F9D58;
+  font-weight: 500;
+  position: relative;
+  left: 457px;
+  top: -415px;
+}
+.e {
+  font-size: 125px;
+  color: #DB4437;
+  font-weight: 500;
+  rotate: 335deg;
+  position: relative;
+  left: 445px;
+  top: -715px;
+}
